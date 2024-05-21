@@ -22,7 +22,7 @@
         --font-android: 'android', cursive;/*fonte da fonte(o nome da fonte criamos)*/
     }
 
-*{ /*cvariavel global, modifica tudo*/
+*{ /*variavel global, modifica tudo*/
     margin: 0px;
     padding: 0px;
 }    
